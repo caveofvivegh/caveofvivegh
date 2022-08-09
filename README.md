@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @caveofvivegh and a proud cyber security defender
-- 👀 I’m interested in solving cyber security problems
+- 👀 I’m interested in solving cyber security problems through building watch signals
 - 🌱 I’m currently travelling in cloud / ci-cd world to uncover new ways of defending the ecosystem
 
 <!---
